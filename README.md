@@ -1,2 +1,3 @@
 # Course-Portfoliio
 My course portfolio for my algorithm class
+Making this portfolio lets my employers be able to see my work done in my experience of coding while still learning new things about it through practice and usingtrial and error to succeed on making my code work efficiently and be functional in the process as well. Expresses the best content I'm able to provide with a portfolio that shows the work I was able to do successfull and can be unsuccessful that show I'm not truly perfect but will strive to make the work duable and successful. MOst of the think needs of networking of my social medias and being able to be contacted easily through a page or a email that can easily get me a request to do a work for the employer.
